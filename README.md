@@ -6,9 +6,7 @@ Full Stack Web Developer & Network Engineer
 * 🤝  I'm open to collaborating on Cybersecurity & Hacking
 * ⚡  I was saved by Jesus Christ. I still am daily btw.
 
-  <p align="right">
-  <img src="https://github.com/user-attachments/assets/3ecf4cce-6603-486e-b3cf-689fca2a6a35" alt="7B7892A6-913D-441B-AB52-DE256B10BA36">
-</p>
+<img src="https://github.com/user-attachments/assets/3ecf4cce-6603-486e-b3cf-689fca2a6a35" alt="7B7892A6-913D-441B-AB52-DE256B10BA36" style="float: right; margin: 0 0 1em 1em;" />
 
 <a href="https://www.x.com/obedientlyx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obedientlyx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
