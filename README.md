@@ -28,7 +28,6 @@ src="https://img.shields.io/twitter/follow/obedientlyx?logo=twitter&style=for-th
 ### Badges
 
 <b>My GitHub Stats</b>
-![7B7892A6-913D-441B-AB52-DE256B10BA36](https://github.com/user-attachments/assets/3ecf4cce-6603-486e-b3cf-689fca2a6a35)
 
 <a href="http://www.github.com/ZoomTbh"><img src="https://github-readme-stats.vercel.app/api?username=ZoomTbh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZoomTbh's GitHub stats" /></a>
 
