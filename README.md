@@ -2,8 +2,7 @@ Full Stack Web Developer & Network Engineer
 -------------------------------------------
 
 * ✉️  You can contact me at [rolelouch.ll@gmail.com](mailto:rolelouch.ll@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Cybersecurity & Hacking
+
 * ⚡  I was saved by Jesus Christ. I still am daily btw.
 
 <img src="https://github.com/user-attachments/assets/3ecf4cce-6603-486e-b3cf-689fca2a6a35" alt="7B7892A6-913D-441B-AB52-DE256B10BA36" style="float: right; margin: 0 0 1em 1em;" />
